@@ -1,1 +1,1 @@
-worker:python Vaccine_Slot_Availability.py
+worker:python Vaccine Slot Availability.py
