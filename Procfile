@@ -1,1 +1,1 @@
-worker: python Vaccine Slot Avalaibility Checker.py 
+worker: python Vaccine Slot Avalaibility Checker.py
